@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
-  "downloadUrl": "https://github.com/YourUsername/MovieStreamer/releases/download/v1.1.0/MovieStreamerUpdater.exe",
+  "downloadUrl": "https://raw.githubusercontent.com/behroozUAC/unknown-/refs/heads/main/MovieStreamerUpdater.exe",
   "releaseNotes": "این نسخه شامل موارد زیر است:\n- بهبود عملکرد برنامه\n- رفع مشکلات بارگذاری محتوا\n- پشتیبانی از سرورهای جدید\n- رابط کاربری بهبود یافته",
   "mandatory": false
 } 
